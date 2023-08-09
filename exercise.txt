@@ -79,3 +79,13 @@ write a program to print all odd number till 5000
 3 3 3
 4 4 4 4
 5 5 5 5 5
+
+
+_______________________________ function _______________________________
+
+write a program to find bmi  using finction .
+
+write a program to get two digit number using finction .
+
+weight a program to find factorial of given number 5! = 5x4x3x2x1=120
+

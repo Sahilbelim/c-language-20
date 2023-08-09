@@ -9,6 +9,12 @@ void Sub(int num1 ,int num2)
     int sub = num1 - num2;
     printf("Subtraction is %d \n", sub);
 }
+void Mod(int num1,int num2)
+{
+    int mod;
+    mod = num1 % num2;
+    printf("module is %d \n", mod);
+}
 void main()
 {
     int num1, num2;
@@ -22,4 +28,5 @@ void main()
     printf("Number 2 is %d \n", num2);
     Add(num1,num2);
     Sub(num1, num2);
+    Mod(num1, num2);
 }
