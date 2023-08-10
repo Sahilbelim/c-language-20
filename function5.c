@@ -7,6 +7,7 @@ int Add(int num1,int num2)
 int Sub(int number1,int number2)
 {
     int sub = number1 - number2;
+    int sub = number1 - number2;
     return sub;
 }
 void  main()
